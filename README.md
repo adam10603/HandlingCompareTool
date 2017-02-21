@@ -48,7 +48,15 @@ I thought about including some handling files with the tool to get people starte
 
 ## Notes
 
-This is a Visual Studio 2017 project, utilizing some C++ 17 features, so you will need the latest version of Visual Studio to open and compile the project.
+If you find any bugs, or have any suggestions, feel free to tweet at me or something (same user name as here).
+
+Regarding the source code:
+This is a Visual Studio 2017 project, utilizing some C++ 17 features, so you will need the latest version of Visual Studio if you want to compile it yourself.
+
+## Version history:
+
+* v1.0:
+  * Initial release
 
 ================
 Licensed under WTFPL v2 (see the file `COPYING`)
