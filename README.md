@@ -40,7 +40,7 @@ The format of these exports is something called a **tab separated file**. This m
 
 Btw, **you can export the selected data fields even if there's only one file open**, which means you can use this as just a conversion tool to make it easier to import handling data into a spreadsheet, if that's your thing by any chance :)
 
-#### Files
+### Files
 
 **The tool supports both the old-gen `handling.dat` and the new-gen `handling.meta` formats**, and all the features work with either of them seamlessly, which means **you can even compare old-gen and new-gen files directly**.
 
