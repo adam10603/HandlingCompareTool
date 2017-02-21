@@ -15,7 +15,7 @@ The main features include:
 
 ## Download
 
-You can download the binary release here:
+**You can download the binary release here:**
 
   * [Windows, 32-bit](https://raw.githubusercontent.com/adam10603/HandlingCompareTool/master/bin/HandlingCompareTool_x86.zip)
   * [Windows, 64-bit](https://raw.githubusercontent.com/adam10603/HandlingCompareTool/master/bin/HandlingCompareTool_x64.zip)
