@@ -44,6 +44,8 @@ Btw, **you can export the selected data fields even if there's only one file ope
 
 **The tool supports both the old-gen `handling.dat` and the new-gen `handling.meta` formats**, and all the features work with either of them seamlessly, which means **you can even compare old-gen and new-gen files directly**.
 
+**IMPORTANT:** The tool will assume the file's format based on the file extension, so make sure your files correctly end in `.dat` or `.meta`.
+
 I thought about including some handling files with the tool to get people started, but I decided not to redistribute the game files, so you will have to source those yourself.
 
 ## Notes
