@@ -51,7 +51,7 @@ I thought about including some handling files with the tool to get people starte
 If you find any bugs, or have any suggestions, feel free to tweet at me or something (same user name as here).
 
 Regarding the source code:
-This is a Visual Studio 2017 project, utilizing some C++ 17 features, so you will need the latest version of Visual Studio if you want to compile it yourself.
+This is a Visual Studio 2017 project, utilizing some C++ 17 features, so you will need the latest RC of Visual Studio 2017 if you want to compile it yourself.
 
 ## Version history:
 
@@ -60,4 +60,5 @@ This is a Visual Studio 2017 project, utilizing some C++ 17 features, so you wil
 
 ================
 Licensed under WTFPL v2 (see the file `COPYING`)
+
 _Note: Although this legally lets you do anything, but if you get rid of my watermark, I will officially not like you._
