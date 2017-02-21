@@ -1,4 +1,4 @@
-# HandlingCompareTool
+# Handling Compare Tool
 ###### _Version 1.0_
 
 ## Intro
