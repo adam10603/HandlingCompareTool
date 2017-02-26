@@ -22,6 +22,8 @@ The main features include:
 
 ## Usage
 
+**To use the tool, you must have .NET Framework 4.5.1 installed!**
+
 Using the tool is pretty self-explanatory. You can open up handling files as **either File "A", File "B", or one in both slots (in order to compare them)**.
 
 After opening a file, the label below the associated "Open File" button will indicate if everything went fine, or not.
