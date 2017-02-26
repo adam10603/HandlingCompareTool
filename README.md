@@ -36,7 +36,7 @@ After finding what you need, you can export the data in various ways. You can ei
 
 In either case you will be presented with the **option to have the data fields in rows, or in columns**. Choose whichever format your heart desires here.
 
-The format of these exports is something called a **tab separated file**. This means that each value on a new column will be separeted from the previous one with a tab character. This makes it very **easy to copy-paste the results into a spreadsheet**, since any hald-decent spreadsheet application will automatically recognize the columns when data in this format is pasted into a table.
+The format of these exports is something called a **tab separated file**. This means that each value on a new column will be separeted from the previous one with a tab character. This makes it very **easy to copy-paste the results into a spreadsheet**, since any half-decent spreadsheet application will automatically recognize the columns in this format.
 
 Btw, **you can export the selected data fields even if there's only one file open**, which means you can use this as just a conversion tool to make it easier to import handling data into a spreadsheet, if that's your thing by any chance :)
 
@@ -44,7 +44,7 @@ Btw, **you can export the selected data fields even if there's only one file ope
 
 **The tool supports both the old-gen `handling.dat` and the new-gen `handling.meta` formats**, and all the features work with either of them seamlessly, which means **you can even compare old-gen and new-gen files directly**.
 
-**IMPORTANT:** The tool will assume the file's format based on the file extension, so make sure your files correctly end in `.dat` or `.meta`.
+**IMPORTANT:** The tool will assume the file's format based on the file extension, so make sure your files correctly end in `.dat` or `.meta`!
 
 I thought about including some handling files with the tool to get people started, but I decided not to redistribute the game files, so you will have to source those yourself.
 
