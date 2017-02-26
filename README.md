@@ -1,5 +1,5 @@
 # Handling Compare Tool
-###### _Version 1.0_
+###### _Version 1.01_
 
 ## Intro
 
@@ -57,6 +57,8 @@ This is a Visual Studio 2017 project, utilizing some C++ 17 features, so you wil
 
 ## Version history:
 
+* v1.01:
+  * Minor bugfixes
 * v1.0:
   * Initial release
 

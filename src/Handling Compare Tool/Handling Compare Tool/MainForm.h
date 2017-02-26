@@ -437,10 +437,11 @@ namespace HandlingCompareTool {
 			this->Controls->Add(this->handlingGroup2);
 			this->Icon = (cli::safe_cast<System::Drawing::Icon^>(resources->GetObject(L"$this.Icon")));
 			this->MaximizeBox = false;
-			this->MinimumSize = System::Drawing::Size(938, 388);
+			this->MaximumSize = System::Drawing::Size(938, 414);
+			this->MinimumSize = System::Drawing::Size(938, 414);
 			this->Name = L"MainForm";
 			this->SizeGripStyle = System::Windows::Forms::SizeGripStyle::Hide;
-			this->Text = L"Handling Compare Tool";
+			this->Text = L"Handling Compare Tool (v1.01)";
 			this->handlingGroup2->ResumeLayout(false);
 			this->manualFilterGroup->ResumeLayout(false);
 			this->manualFilterGroup->PerformLayout();
