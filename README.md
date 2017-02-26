@@ -61,6 +61,8 @@ This is a Visual Studio 2017 project, utilizing some C++ 17 features, so you wil
 
 * v1.01:
   * Minor bugfixes
+  * Required .NET version is now 4.5.1 (before it was 4.6.something, whatever VS defaulted to)
+  * The version number is now displayed in the title bar
 * v1.0:
   * Initial release
 
