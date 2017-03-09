@@ -55,7 +55,7 @@ I thought about including some handling files with the tool to get people starte
 If you find any bugs, or have any suggestions, feel free to tweet at me or something (same user name as here).
 
 Regarding the source code:
-This is a Visual Studio 2017 project, utilizing some C++ 17 features, so you will need the latest RC of Visual Studio 2017 if you want to compile it yourself.
+This is a Visual Studio 2017 project, utilizing some C++ 17 features, so you will need VS 2017 if you want to compile it yourself.
 
 ## Version history:
 
