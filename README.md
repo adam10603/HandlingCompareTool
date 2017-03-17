@@ -66,7 +66,7 @@ This is a Visual Studio 2017 project, utilizing some C++ 17 features, so you wil
 * v1.0:
   * Initial release
 
-================
+_______________
 Licensed under WTFPL v2 (see the file `COPYING`)
 
 _Note: Although this legally lets you do anything, but if you get rid of my watermark, I will officially not like you._
